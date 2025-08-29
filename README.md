@@ -1,5 +1,6 @@
 ﻿# css.w---Vegan-restaurant
 
+נלמד עם css:
 צבעים ומשתנים (:root, var()), פלטה “טבעונית” וגרדיינטים לרקעים.
 
 טיפוגרפיה: גדלים נוזליים (clamp()), משקלים וצללי טקסט.
@@ -29,4 +30,5 @@ Hero כמו במקור: אייקון ממורכז עם position + transform.
 
 
 <img width="934" height="883" alt="image" src="https://github.com/user-attachments/assets/457a5456-2327-4d3e-8237-f8703757fc00" />
+
 
